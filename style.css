@@ -1,10 +1,13 @@
 .body-size{
     margin-top: 3%;
-    margin-left:40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
 }
 .phone-body{
     background-color: rgb(0, 0, 0);
-    width: 35%;
+    width: 22%;
     height: 550px;
     border: 1px solid black;
     border-radius: 40px;
@@ -14,4 +17,10 @@
     height: 550px;
     border: solid;
     border-radius: 40px;
+}
+.phone-body h1{
+    position: absolute;
+    top: 13%;
+    left: 50%;
+    transform: translate(-50%,-50%);
 }
