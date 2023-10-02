@@ -18,6 +18,11 @@
     border: solid;
     border-radius: 40px;
 }
+.charge{
+    position: absolute;
+    top: 1%;
+    left: 56%;
+}
 .camera{
     width:9%;
     border-radius: 40px;
@@ -55,7 +60,7 @@
 .up{
     position: absolute;
     left: 50%;
-    top: 4%;
+    top: 75%;
    
 }
 .all-apps{
@@ -77,13 +82,21 @@
 }
 .notification-bar{
     position: absolute;
-    left: 47%;
-    top: 2%;
+    left: 50%;
+    top: 4%;
 }
 .notification{
     position: absolute;
     top: 1%;
     width: 21%;
     margin-left: 2px;
+    
+}
+.notifications{
+    position: absolute;
+    top: 10%;
+}
+.notification-item{
+    padding:15px;
     
 }
