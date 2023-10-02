@@ -37,39 +37,39 @@
     transform: translate(-50%,-50%);
     left: 48%;
     top: 80%;
-    }
-    .app{
-        padding-left: 40px;
+}
+.app{
+    padding-left: 40px;
         
-    }
-    .phone-apps{
-        position: absolute;
+}
+.phone-apps{
+    position: absolute;
     
-        transform: translate(-50%,-50%);
-        left: 48%;
-        top: 90%;
-    }
-    .second-line{
-        padding-left: 40px;
-    }
-   .up{
+    transform: translate(-50%,-50%);
+    left: 48%;
+    top: 90%;
+}
+.second-line{
+    padding-left: 40px;
+}
+.up{
     position: absolute;
     left: 50%;
     top: 4%;
    
-   }
-   .all-apps{
+}
+.all-apps{
     position: absolute;
     top: 8%;
     border-radius: 40%;
-   }
-   .card{
+}
+.card{
     width: 100%;
     margin-left: 3px;
-   }
-   .more-app{
+}
+.more-app{
     width:250px;
     margin-left: 4px;
     height: 450px;
-   }
+}
   
