@@ -47,16 +47,6 @@
     padding-left: 40px;
         
 }
-.phone-apps{
-    position: absolute;
-    
-    transform: translate(-50%,-50%);
-    left: 48%;
-    top: 90%;
-}
-.second-line{
-    padding-left: 40px;
-}
 .up{
     position: absolute;
     left: 50%;
@@ -99,4 +89,24 @@
 .notification-item{
     padding:15px;
     
+}
+.phone{
+    position: absolute;
+    top: 88%;
+    left: 41%;
+}
+.contact{
+    position: absolute;
+    top: 88%;
+    left: 45%
+}
+.camera-app{
+    position: absolute;
+    top: 88%;
+    left: 50%;
+}
+.browser{
+    position: absolute;
+    top: 88%;
+    left: 56%;
 }
