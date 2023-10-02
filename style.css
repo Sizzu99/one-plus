@@ -55,10 +55,21 @@
    .up{
     position: absolute;
     left: 50%;
-    top: 70%;
+    top: 4%;
    
    }
    .all-apps{
     position: absolute;
-    top: 72%;
+    top: 8%;
+    border-radius: 40%;
    }
+   .card{
+    width: 100%;
+    margin-left: 3px;
+   }
+   .more-app{
+    width:250px;
+    margin-left: 4px;
+    height: 450px;
+   }
+  
