@@ -72,4 +72,18 @@
     margin-left: 4px;
     height: 450px;
 }
-  
+.more-apps{
+    padding: 6px;
+}
+.notification-bar{
+    position: absolute;
+    left: 47%;
+    top: 2%;
+}
+.notification{
+    position: absolute;
+    top: 1%;
+    width: 21%;
+    margin-left: 2px;
+    
+}
