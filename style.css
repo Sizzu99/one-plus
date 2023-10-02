@@ -18,9 +18,47 @@
     border: solid;
     border-radius: 40px;
 }
+.camera{
+    width:9%;
+    border-radius: 40px;
+    position: absolute;
+    left: 46%;
+    top: 2%;
+}
 .phone-body h1{
     position: absolute;
-    top: 13%;
+    top: 15%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
+.apps{
+    position: absolute;
+    
+    transform: translate(-50%,-50%);
+    left: 48%;
+    top: 80%;
+    }
+    .app{
+        padding-left: 40px;
+        
+    }
+    .phone-apps{
+        position: absolute;
+    
+        transform: translate(-50%,-50%);
+        left: 48%;
+        top: 90%;
+    }
+    .second-line{
+        padding-left: 40px;
+    }
+   .up{
+    position: absolute;
+    left: 50%;
+    top: 70%;
+   
+   }
+   .all-apps{
+    position: absolute;
+    top: 72%;
+   }
